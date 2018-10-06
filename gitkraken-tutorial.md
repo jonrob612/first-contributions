@@ -24,7 +24,7 @@ You should see the "Welcome to GitKraken" modal dialog - Sign in with GitHub and
 
 <img style="float: right;" src="assets/gk-login.png" alt="login to GitHub" />
 
-(optional) Go to File->Preferences and set your project directory to the root of your local repositories.
+(optional) Go to File-> Preferences and set your project directory to the root of your local repositories.
 
 
 ## Fork this repository
@@ -36,7 +36,7 @@ This will create of copy of this repository in your account.
 
 ## Clone the repository
 
-In GitKraken, go to File->Clone Repo.
+In GitKraken, go to File-> Clone Repo.
 
 
 <img style="float: right;" src="assets/gk-clone.png" alt="clone this repository" />
